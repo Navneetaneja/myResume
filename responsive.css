@@ -49,6 +49,10 @@
 }
 
 @media screen and (max-width:380px) {
+    .horizontal-list li {
+        font-size: 1rem;
+        color: white;
+    }
     #name-social-container {
         margin-top: 10vh;
     }
